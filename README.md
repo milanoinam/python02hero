@@ -1,1 +1,3 @@
 # python02hero
+This is a repository for my python practice on Udemy course by Jose Portilla...
+Python is fun !
